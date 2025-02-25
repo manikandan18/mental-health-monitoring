@@ -5,6 +5,6 @@ This project deals the analysis and monitoring of mental health conditions using
 These sensors monitor brain activity and emotional arousal to detect patterns of stress, anxiety, and cognitive overload. 
 Based on this time series data recorded from IoT sensors, the stress levels are classified as high Vs low stress. 
 For this project, Mental Health Monitor Using Wearable IoT Sensors data set was used. This dataset was downloaded from Kaggle at https://www.kaggle.com/datasets/ziya07/mental-health-monitor-using-wearable-iot-sensors.
-![image](https://github.com/user-attachments/assets/277ace41-61bb-42af-afaf-ce6cd7917e65)
+
 
 Both LSTM and ESRNN uses deep neural networks that solves the specific problems of time-series data in our project to analyze the stress levels. For this, LSTM was used to predict the stress levels based on the past data. ESRNN was used for training the model for classification of high stress level to low stress level students.
